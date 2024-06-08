@@ -7,12 +7,6 @@
 - [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
 
-## Preview
-
-<div align="center">
-  <img src="docs/imgs/dark.png">
-</div>
-
 ## Document
 
 [Community](https://gui-for-cores.github.io/gfs/community.html)
