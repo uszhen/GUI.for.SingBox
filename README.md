@@ -10,7 +10,6 @@
 ## Preview
 
 <div align="center">
-  <img src="docs/imgs/light.png">
   <img src="docs/imgs/dark.png">
 </div>
 
