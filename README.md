@@ -48,4 +48,3 @@ wails build
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox.svg)](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox)
