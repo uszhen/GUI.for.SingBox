@@ -6,11 +6,6 @@
 如果你希望购买一些现成的代理服务,可选择下述代理服务
 - [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
-<div align="center">
-  <img src="build/appicon.png" alt="GUI.for.SingBox" width="200">
-  <h1>GUI.for.SingBox</h1>
-  <p>A GUI program developed by vue3 + wails.</p>
-</div>
 
 ## Preview
 
